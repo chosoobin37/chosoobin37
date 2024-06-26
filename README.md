@@ -1,24 +1,9 @@
 ### Hi there 👋
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🌱 I’m currently learning ...</li>
-      </ul>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chosoobin37&layout=compact&hide=javascript,html" />
-      </a>
-    </td>
-    <td>
-      <ul>
-        <li>🔭 I’m currently working on ...</li>
-      </ul>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=chosoobin37&show_icons=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+| Learning | Working On |
+|----------|------------|
+| - 🌱 I’m currently learning ... | - 🔭 I’m currently working on ... |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chosoobin37&layout=compact&hide=javascript,html) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chosoobin37&show_icons=true) |
 
 ---
 
