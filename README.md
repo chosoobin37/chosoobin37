@@ -6,7 +6,7 @@
         <li>🌱 I’m currently learning ...</li>
       </ul>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chosoobin37&layout=compact" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chosoobin37&layout=compact&hide=javascript,html" />
       </a>
     </td>
     <td>
@@ -52,3 +52,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daersh&langs_count=10&layout=compact&hide=javascript,html&theme=dark" />
