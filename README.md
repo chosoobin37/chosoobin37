@@ -17,6 +17,14 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=chosoobin37&show_icons=true" />
       </a>
     </td>
+    <td>
+      <ul>
+        <li>🌟 My Baekjoon Stats ...</li>
+      </ul>
+      <a href="https://solved.ac/angelajsb">
+        <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=angelajsb" />
+      </a>
+    </td>
   </tr>
 </table>
 
